@@ -80,12 +80,13 @@ const Description = () => {
         >
           <div>
             <p className="text-Orange lg:text-[30px] italic py-5">
-              Welcome to Solast
+            Добро пожаловать в
+            агентство путешествий“Крылья Эфиопии
             </p>
           </div>
           <div>
             <h1 className="text-[40px] font-semibold text-Black">
-              Discover the Wonders of Ethiopia
+            Откройте для себя Эфиопию вместе с нами
             </h1>
             <p className="py-5 text-DarkGray text-lg">
               Эфиопия, земля древней истории и потрясающих пейзажей, ждет вашего
