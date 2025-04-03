@@ -33,7 +33,7 @@ const TourHero = () => {
         >
           Главная страница {">"}
         </Link>
-        <p className="inline-block">Tour List {">"}</p>
+        <p className="inline-block">Наши туры {">"}</p>
         <p className="text-[54px] mt-5 font-bold">Наши туры</p>
       </motion.div>
     </section>

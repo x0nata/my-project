@@ -31,9 +31,9 @@ const ContactHero = () => {
           to="/"
           className="inline-block mr-5 hover:text-Orange ease-in-out duration-300"
         >
-          Home {">"}
+          Главная страница {">"}
         </Link>
-        <p className="inline-block">Contact Us {">"}</p>
+        <p className="inline-block">Контакты {">"}</p>
         <p className="text-[54px] mt-5 font-bold">Контакты</p>
       </motion.div>
     </section>
