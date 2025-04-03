@@ -31,10 +31,10 @@ const TourHero = () => {
           to="/"
           className="inline-block mr-5 hover:text-Orange ease-in-out duration-300"
         >
-          Home {">"}
+          Главная страница {">"}
         </Link>
         <p className="inline-block">Tour List {">"}</p>
-        <p className="text-[54px] mt-5 font-bold">Tour List</p>
+        <p className="text-[54px] mt-5 font-bold">Наши туры</p>
       </motion.div>
     </section>
   );

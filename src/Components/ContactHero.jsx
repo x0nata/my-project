@@ -34,7 +34,7 @@ const ContactHero = () => {
           Home {">"}
         </Link>
         <p className="inline-block">Contact Us {">"}</p>
-        <p className="text-[54px] mt-5 font-bold">Contact Us</p>
+        <p className="text-[54px] mt-5 font-bold">Контакты</p>
       </motion.div>
     </section>
   );
