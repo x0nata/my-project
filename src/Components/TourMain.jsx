@@ -34,7 +34,7 @@ const TourMain = () => {
         <Link to="/AddisIT">
           <Tour
             span=" $450/Person"
-            days="8-дневный тур"
+            days="5-дневный тур"
             place="Маршрут по Аддис Абебе"
             icon1={<FaMapMarkerAlt />}
             location="Аддис-Абеба, Эфиопия"
@@ -49,7 +49,7 @@ const TourMain = () => {
         <Link to="/Addis1">
           <Tour
             span=" $100/Person"
-            days="10-дневный тур"
+            days="1-дневный тур"
             place="Энтото"
             icon1={<FaMapMarkerAlt />}
             location="Аддис-Абеба, Эфиопия"
@@ -64,7 +64,7 @@ const TourMain = () => {
         <Link to="/Addis">
           <Tour
             span=" $125/Person"
-            days="7-дневный тур"
+            days="1-дневный тур"
             place="Однодневный маршрут по Аддис Абебе"
             icon1={<FaMapMarkerAlt />}
             location="Аддис-Абеба, Эфиопия"
@@ -79,7 +79,7 @@ const TourMain = () => {
         <Link to="/Axum">
           <Tour
             span=" $750/Person"
-            days="8-дневный тур"
+            days="1-дневный тур"
             place="Древний Аксум"
             icon1={<FaMapMarkerAlt />}
             location="Аксум, Эфиопия"
