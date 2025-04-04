@@ -20,7 +20,7 @@ const Description = () => {
   }, [isInView]);
 
   return (
-    <section className="container mx-auto p-5 relative top-10 sm:mt-32 xl:mt-44">
+    <section className="container mx-auto p-5 mt-[200px] sm:mt-32 xl:mt-44">
       <div className="flex flex-col-reverse lg:flex lg:flex-row items-center lg:space-x-24">
         {/* Grid Section */}
         <motion.div
@@ -80,16 +80,14 @@ const Description = () => {
         >
           <div>
             <p className="text-Orange lg:text-[30px] italic py-5">
-            Добро пожаловать в
-            агентство путешествий“Крылья Эфиопии
+              Добро пожаловать в агентство путешествий“Крылья Эфиопии
             </p>
           </div>
           <div>
             <h1 className="text-[40px] font-semibold text-Black">
-            Откройте для себя Эфиопию вместе с нами
+              Откройте для себя Эфиопию вместе с нами
             </h1>
             <p className="py-5 text-DarkGray text-lg">
-              
               Эфиопия, земля древней истории и потрясающих пейзажей, ждет вашего
               исследования. От старинных церквей Аксума до яркой городской жизни
               Аддис-Абебы – здесь найдется что-то для каждого
