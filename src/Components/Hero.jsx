@@ -19,7 +19,7 @@ const Hero = () => {
   }, [isInView]);
 
   return (
-    <section className="container mx-auto p-5 mt-8 mb-22 sm:mt-16">
+    <section className="container mx-auto p-5 mt-10 mb-22 sm:mt-32">
       <div className="flex flex-col-reverse lg:flex lg:flex-row justify-between lg:items-center">
         {/* Text Hero */}
         <motion.div
