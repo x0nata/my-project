@@ -94,7 +94,7 @@ const TourMain = () => {
         <Link to="/ArbaMinch">
           <Tour
             span=" $750/Person"
-            days="10-дневный тур"
+            days="1-дневный тур"
             place="Арба Минч в Эфиопии "
             icon1={<FaMapMarkerAlt />}
             location="Арба Минч, Эфиопия"
