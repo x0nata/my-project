@@ -1,4 +1,4 @@
-import "../Pages/Home.css";
+import "../../src/Home.css";
 
 const Quote = () => {
   return (
